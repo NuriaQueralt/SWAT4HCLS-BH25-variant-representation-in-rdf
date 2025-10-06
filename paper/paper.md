@@ -20,7 +20,7 @@ affiliations:
     index: 2
 date: 27 February 2025
 cito-bibliography: paper.bib
-event: BH25JP
+event: SWAT4HCLSBH25
 biohackathon_name: "SWAT4HCLS BioHackathon 2025"
 biohackathon_url:   "https://www.swat4ls.org/workshops/barcelona2025/programme/swat4hcls-2025-biohackathon/"
 biohackathon_location: "Barcelona, Spain, 2025"
